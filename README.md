@@ -11,18 +11,21 @@ This is an econometrics project, with the analysis pipeline divided into three s
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Python 3 + Numpy, Pandas
+Python 3
 R
+Numpy
+Pandas
+Requests
 ```
 
-## License
+A Google Cloud Platform account is also required to use the Maps API.
+
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### Acknowledgments
 
 * Tom Pagel
 * Google Maps Documentation
